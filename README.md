@@ -1,2 +1,2 @@
-This is alert boxes!!!
-![](alert.png)
+This is alert boxes.
+
